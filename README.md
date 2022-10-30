@@ -4,10 +4,10 @@ Uses AI Solve Captchas in less than 10 seconds
 
 
 How to use:
-Go to: Rain Joiner V1.js
-Copy the code from Rain Joiner V1.js
+Go to: Rain Joiner V1
+Copy the code from Rain Joiner V1
 Go to rblxwild.com and use inspect element
-Then go to the console part of the inspect element and paste in the script from Rain Joiner V1.js
+Then go to the console part of the inspect element and paste in the script from Rain Joiner V1
 And press enter
 
 Enjoy
